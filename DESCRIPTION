@@ -1,0 +1,12 @@
+Package: PMEDMrcppPal
+Type: Package
+Title: Wrapper for PMEDMrcpp
+Version: 0.1.0
+Author: Joe Tuccillo
+Maintainer: Joe Tuccillo <tuccillojv@ornl.gov>
+Depends: Matrix, PMEDMrcpp
+Description: Preprocessing and solver for P-MEDM.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
