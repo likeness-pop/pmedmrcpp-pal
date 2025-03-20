@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+temp/*
+
+*.ipynb_checkpoints/*
+notebooks/.ipynb_checkpoints/*
+.DS_Store
