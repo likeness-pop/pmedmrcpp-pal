@@ -1,4 +1,6 @@
-# R wrapper for [`pmedmrcpp`](https://bitbucket.org/jovtc/pmedmrcpp/src/master/)
+# PMEDMrcpp-Pal: R wrapper for [`PMEDMrcpp`](https://bitbucket.org/jovtc/pmedmrcpp/src/master/)
+
+This package is primarily used to support usage of `PMEDMrcpp` within the Likeness Python stack via [`PMEDM-Legacy`](https://github.com/likeness-pop/pmedm-legacy.git).
 
 ## OS Compatibility
 
